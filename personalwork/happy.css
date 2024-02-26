@@ -1,0 +1,34 @@
+body {
+    background-color: burlywood;
+    /* background: blue; */
+}
+
+h1 {
+    color: brown;
+    font-size: very large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#fantasy {
+    text-align: right;
+    color: blue;
+    font-style: italic;
+}
+
+body {
+    text-align: center;
+    font-size: medium;
+}
+
+.embassy {
+    background-color: aliceblue;
+    margin: auto;
+    padding: 20px;
+    width: 600px;
+    height: 600px;
+}
+
+#fname {
+    color: aquamarine;
+    width: 40%;
+}
